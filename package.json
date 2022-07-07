@@ -14,6 +14,7 @@
     "prettier": "prettier -c --write **/*"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^1.8.3",
     "axios": "^0.26.1",
     "proste-react-use": "^3.5.0",
     "react": "^18.1.0",
